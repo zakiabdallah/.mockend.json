@@ -1,0 +1,57 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstname":"zaki",
+            "lastname":"Salim",
+            "email":"Zaki@gmail.com",
+            "age":22,
+            "company":"1"
+        
+        },
+        {
+            "id":"2",
+            "firstname":"krimo",
+            "lastname":"Karim",
+            "email":"Karim@gmail.com",
+            "age":22,
+            "company":"2"
+        
+        },
+        {
+            "id":"3",
+            "firstname":"Abbes",
+            "lastname":"Abdallah",
+            "email":"Abbes@gmail.com",
+            "age":21,
+            "company":"2"
+        
+        },
+        {
+            "id":"4",
+            "firstname":"Islam",
+            "lastname":"Islam",
+            "email":"Islam@gmail.com",
+            "age":26,
+            "company":"3"
+        
+        }
+    ],
+    "company":[
+        {
+            "id":"1",
+            "name":"Oppo",
+            "description":" some text about Oppo..."
+        },
+        {
+            "id":"2",
+            "name":"Samsung",
+            "description":" some text about Samsung..."
+        },
+        {
+            "id":"3",
+            "name":"Huawei",
+            "description":" some text about Huawei..."
+        }
+    ]
+    }
